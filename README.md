@@ -10,7 +10,7 @@ Este proyecto de investigación se realizó para tener más información sobre l
 Encontrarás un proceso EDA (Con Python), las conclusiones y una pequeña presentación.
 
 
-# ¡Disfruta y no te olvides de dejar una 🌟estrella🌟 si te gusta el proyecto!
+## ¡Disfruta y no te olvides de dejar una 🌟estrella🌟 si te gusta el proyecto!
 
 <!--
 **RaquelLopez1/RaquelLopez1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
