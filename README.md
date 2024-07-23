@@ -1,13 +1,9 @@
-\
-En los documentos llamados "INFO" tienes información para entender alguna columna del dataset, como por ejemplo, los códigos delictivos. \
-¡Espero que te guste!
-
-
 ## ¡Bienvenid@! 👋
 
 Este proyecto de investigación se realizó para tener más información sobre los crímenes en EEUU. 
 
-Encontrarás un proceso EDA (Con Python), las conclusiones y una pequeña presentación.
+Encontrarás un proceso EDA (Con Python), las conclusiones y una pequeña presentación y en los documentos llamados "INFO" tienes información para entender alguna columna del dataset, como por ejemplo, los códigos delictivos. \
+¡Espero que te guste!
 
 
 ## ¡Disfruta y no te olvides de dejar una 🌟estrella🌟 si te gusta el proyecto!
